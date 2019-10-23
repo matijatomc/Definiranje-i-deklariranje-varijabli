@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\bin\Debug\tomcMatijaZadatak1.exe.config
+C:\Users\Matija\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\bin\Debug\tomcMatijaZadatak1.exe
+C:\Users\Matija\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\bin\Debug\tomcMatijaZadatak1.pdb
+C:\Users\Matija\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\obj\Debug\tomcMatijaZadatak1.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\obj\Debug\tomcMatijaZadatak1.exe
+C:\Users\Matija\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\obj\Debug\tomcMatijaZadatak1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Matija\source\repos\tomcMatijaZadatak2\tomcMatijaZadatak2\bin\Debug\tomcMatijaZadatak2.exe.config
+C:\Users\Matija\source\repos\tomcMatijaZadatak2\tomcMatijaZadatak2\bin\Debug\tomcMatijaZadatak2.exe
+C:\Users\Matija\source\repos\tomcMatijaZadatak2\tomcMatijaZadatak2\bin\Debug\tomcMatijaZadatak2.pdb
+C:\Users\Matija\source\repos\tomcMatijaZadatak2\tomcMatijaZadatak2\obj\Debug\tomcMatijaZadatak2.exe
+C:\Users\Matija\source\repos\tomcMatijaZadatak2\tomcMatijaZadatak2\obj\Debug\tomcMatijaZadatak2.pdb
